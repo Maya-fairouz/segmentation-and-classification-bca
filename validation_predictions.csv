@@ -1,0 +1,67 @@
+Sample Index,True Label,Predicted Label,Prediction Probability
+0,Massive,Non Massive,0.4892454
+1,Massive,Non Massive,0.48775002
+2,Massive,Non Massive,0.4873052
+3,Massive,Non Massive,0.4880991
+4,Non Massive,Non Massive,0.4890191
+5,Massive,Non Massive,0.48885003
+6,Non Massive,Non Massive,0.48629087
+7,Non Massive,Non Massive,0.48953927
+8,Non Massive,Non Massive,0.4891304
+9,Non Massive,Non Massive,0.486608
+10,Non Massive,Non Massive,0.48930728
+11,Non Massive,Non Massive,0.4894304
+12,Non Massive,Non Massive,0.48844892
+13,Massive,Non Massive,0.48621893
+14,Massive,Non Massive,0.4899383
+15,Non Massive,Non Massive,0.489253
+16,Massive,Non Massive,0.48714015
+17,Non Massive,Non Massive,0.48626634
+18,Massive,Non Massive,0.48829105
+19,Non Massive,Non Massive,0.48800904
+20,Non Massive,Non Massive,0.48943353
+21,Massive,Non Massive,0.48923275
+22,Non Massive,Non Massive,0.48770773
+23,Non Massive,Non Massive,0.4870338
+24,Non Massive,Non Massive,0.48929834
+25,Non Massive,Non Massive,0.488672
+26,Massive,Non Massive,0.48942378
+27,Non Massive,Non Massive,0.48947775
+28,Non Massive,Non Massive,0.48634157
+29,Non Massive,Non Massive,0.48698768
+30,Non Massive,Non Massive,0.48727593
+31,Non Massive,Non Massive,0.48925227
+32,Non Massive,Non Massive,0.487303
+33,Massive,Non Massive,0.4870129
+34,Non Massive,Non Massive,0.4893049
+35,Non Massive,Non Massive,0.49011537
+36,Non Massive,Non Massive,0.49012735
+37,Non Massive,Non Massive,0.48859417
+38,Non Massive,Non Massive,0.48949072
+39,Non Massive,Non Massive,0.48722658
+40,Non Massive,Non Massive,0.4862571
+41,Massive,Non Massive,0.4890258
+42,Non Massive,Non Massive,0.4888199
+43,Non Massive,Non Massive,0.48925507
+44,Massive,Non Massive,0.48771742
+45,Non Massive,Non Massive,0.4896453
+46,Massive,Non Massive,0.48646465
+47,Non Massive,Non Massive,0.48730382
+48,Non Massive,Non Massive,0.48763576
+49,Non Massive,Non Massive,0.48679617
+50,Non Massive,Non Massive,0.4889716
+51,Massive,Non Massive,0.48690727
+52,Non Massive,Non Massive,0.4872855
+53,Massive,Non Massive,0.4896737
+54,Massive,Non Massive,0.4863423
+55,Non Massive,Non Massive,0.48658913
+56,Massive,Non Massive,0.4889035
+57,Massive,Non Massive,0.4871151
+58,Massive,Non Massive,0.4868922
+59,Non Massive,Non Massive,0.48895833
+60,Massive,Non Massive,0.48700655
+61,Non Massive,Non Massive,0.48825553
+62,Massive,Non Massive,0.48949757
+63,Non Massive,Non Massive,0.48768857
+64,Massive,Non Massive,0.48837703
+65,Non Massive,Non Massive,0.48699987
